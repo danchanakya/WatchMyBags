@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PRODUCTION_API_KEY</key>
+	<string>70556b68-e280-4b08-8cf5-c04b2fe3cd3b</string>
+	<key>FEATURE_NAME</key>
+	<string>WatchMyBags</string>
+	<key>FEATURE_DESCRIPTION</key>
+	<string></string>
+	<key>CUSTOM_OPT_IN_FLOW</key>
+	<false/>
+	<key>CUMMUNICATIONS_DISABLED</key>
+	<false/>
+</dict>
+</plist>
