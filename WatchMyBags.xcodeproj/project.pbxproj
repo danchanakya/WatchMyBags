@@ -14,14 +14,34 @@
 		4E82845619A900D200E0AC85 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82845519A900D200E0AC85 /* main.m */; };
 		4E82845A19A900D200E0AC85 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82845919A900D200E0AC85 /* AppDelegate.m */; };
 		4E82845D19A900D200E0AC85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E82845B19A900D200E0AC85 /* Main.storyboard */; };
-		4E82846019A900D200E0AC85 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82845F19A900D200E0AC85 /* FirstViewController.m */; };
-		4E82846319A900D200E0AC85 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82846219A900D200E0AC85 /* SecondViewController.m */; };
 		4E82846519A900D200E0AC85 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E82846419A900D200E0AC85 /* Images.xcassets */; };
 		4E82846C19A900D200E0AC85 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82846B19A900D200E0AC85 /* XCTest.framework */; };
 		4E82846D19A900D200E0AC85 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82844919A900D200E0AC85 /* Foundation.framework */; };
 		4E82846E19A900D200E0AC85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82844D19A900D200E0AC85 /* UIKit.framework */; };
 		4E82847619A900D200E0AC85 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4E82847419A900D200E0AC85 /* InfoPlist.strings */; };
 		4E82847819A900D200E0AC85 /* WatchMyBagsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82847719A900D200E0AC85 /* WatchMyBagsTests.m */; };
+		4E82848819A9059F00E0AC85 /* WatchMyBagsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82848719A9059F00E0AC85 /* WatchMyBagsTableViewController.m */; };
+		4E82848B19A9074C00E0AC85 /* LookForBagsCVController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E82848A19A9074C00E0AC85 /* LookForBagsCVController.m */; };
+		4E82849119A90A2500E0AC85 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82848C19A90A2400E0AC85 /* CoreBluetooth.framework */; };
+		4E82849219A90A2500E0AC85 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82848D19A90A2400E0AC85 /* CoreData.framework */; };
+		4E82849319A90A2500E0AC85 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82848E19A90A2400E0AC85 /* CoreLocation.framework */; };
+		4E82849419A90A2500E0AC85 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82848F19A90A2500E0AC85 /* MapKit.framework */; };
+		4E82849519A90A2500E0AC85 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82849019A90A2500E0AC85 /* Security.framework */; };
+		4E82849719A90A4B00E0AC85 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82849619A90A4B00E0AC85 /* libz.dylib */; };
+		4E8284A319A90AB300E0AC85 /* Common.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82849919A90AB200E0AC85 /* Common.framework */; };
+		4E8284A419A90AB300E0AC85 /* ContextCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82849B19A90AB200E0AC85 /* ContextCore.framework */; };
+		4E8284A519A90AB300E0AC85 /* ContextLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E82849D19A90AB200E0AC85 /* ContextLocation.framework */; };
+		4E8284A619A90AB300E0AC85 /* DataModels.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4E82849F19A90AB300E0AC85 /* DataModels.bundle */; };
+		4E8284A719A90AB300E0AC85 /* FYX.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8284A019A90AB300E0AC85 /* FYX.framework */; };
+		4E8284A819A90AB300E0AC85 /* NetworkServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8284A219A90AB300E0AC85 /* NetworkServices.framework */; };
+		4E8284AA19A90D3800E0AC85 /* UserContext.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E8284A919A90D3800E0AC85 /* UserContext.plist */; };
+		4E8284AD19A9215800E0AC85 /* PackMyBagsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8284AC19A9215800E0AC85 /* PackMyBagsTableViewController.m */; };
+		4E8284B019A92C8200E0AC85 /* Transmitter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8284AF19A92C8200E0AC85 /* Transmitter.m */; };
+		4E8284B619A94E1600E0AC85 /* SightingsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8284B519A94E1600E0AC85 /* SightingsTableViewCell.m */; };
+		4E8284BA19A9A19500E0AC85 /* bar_full@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8284B719A9A19500E0AC85 /* bar_full@2x.png */; };
+		4E8284BB19A9A19500E0AC85 /* bar_track_full@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8284B819A9A19500E0AC85 /* bar_track_full@2x.png */; };
+		4E8284BC19A9A19500E0AC85 /* WatchMyBags Icon 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8284B919A9A19500E0AC85 /* WatchMyBags Icon 1.png */; };
+		4E8284BE19A9A1D600E0AC85 /* list_item_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8284BD19A9A1D600E0AC85 /* list_item_bg@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,16 +66,39 @@
 		4E82845819A900D200E0AC85 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4E82845919A900D200E0AC85 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4E82845C19A900D200E0AC85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4E82845E19A900D200E0AC85 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		4E82845F19A900D200E0AC85 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
-		4E82846119A900D200E0AC85 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		4E82846219A900D200E0AC85 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		4E82846419A900D200E0AC85 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		4E82846A19A900D200E0AC85 /* WatchMyBagsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WatchMyBagsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E82846B19A900D200E0AC85 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		4E82847319A900D200E0AC85 /* WatchMyBagsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WatchMyBagsTests-Info.plist"; sourceTree = "<group>"; };
 		4E82847519A900D200E0AC85 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4E82847719A900D200E0AC85 /* WatchMyBagsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WatchMyBagsTests.m; sourceTree = "<group>"; };
+		4E82848619A9059F00E0AC85 /* WatchMyBagsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WatchMyBagsTableViewController.h; sourceTree = "<group>"; };
+		4E82848719A9059F00E0AC85 /* WatchMyBagsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WatchMyBagsTableViewController.m; sourceTree = "<group>"; };
+		4E82848919A9074C00E0AC85 /* LookForBagsCVController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LookForBagsCVController.h; sourceTree = "<group>"; };
+		4E82848A19A9074C00E0AC85 /* LookForBagsCVController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LookForBagsCVController.m; sourceTree = "<group>"; };
+		4E82848C19A90A2400E0AC85 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		4E82848D19A90A2400E0AC85 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		4E82848E19A90A2400E0AC85 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4E82848F19A90A2500E0AC85 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		4E82849019A90A2500E0AC85 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		4E82849619A90A4B00E0AC85 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		4E82849919A90AB200E0AC85 /* Common.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Common.framework; sourceTree = "<group>"; };
+		4E82849B19A90AB200E0AC85 /* ContextCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ContextCore.framework; sourceTree = "<group>"; };
+		4E82849D19A90AB200E0AC85 /* ContextLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ContextLocation.framework; sourceTree = "<group>"; };
+		4E82849F19A90AB300E0AC85 /* DataModels.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DataModels.bundle; sourceTree = "<group>"; };
+		4E8284A019A90AB300E0AC85 /* FYX.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FYX.framework; path = ../gimbalsdk_1/Frameworks/FYX.framework; sourceTree = "<group>"; };
+		4E8284A219A90AB300E0AC85 /* NetworkServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = NetworkServices.framework; sourceTree = "<group>"; };
+		4E8284A919A90D3800E0AC85 /* UserContext.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = UserContext.plist; sourceTree = "<group>"; };
+		4E8284AB19A9215800E0AC85 /* PackMyBagsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PackMyBagsTableViewController.h; sourceTree = "<group>"; };
+		4E8284AC19A9215800E0AC85 /* PackMyBagsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PackMyBagsTableViewController.m; sourceTree = "<group>"; };
+		4E8284AE19A92C8200E0AC85 /* Transmitter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Transmitter.h; sourceTree = "<group>"; };
+		4E8284AF19A92C8200E0AC85 /* Transmitter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Transmitter.m; sourceTree = "<group>"; };
+		4E8284B419A94E1600E0AC85 /* SightingsTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SightingsTableViewCell.h; sourceTree = "<group>"; };
+		4E8284B519A94E1600E0AC85 /* SightingsTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SightingsTableViewCell.m; sourceTree = "<group>"; };
+		4E8284B719A9A19500E0AC85 /* bar_full@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bar_full@2x.png"; path = "Images/bar_full@2x.png"; sourceTree = "<group>"; };
+		4E8284B819A9A19500E0AC85 /* bar_track_full@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bar_track_full@2x.png"; path = "Images/bar_track_full@2x.png"; sourceTree = "<group>"; };
+		4E8284B919A9A19500E0AC85 /* WatchMyBags Icon 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "WatchMyBags Icon 1.png"; path = "Images/WatchMyBags Icon 1.png"; sourceTree = "<group>"; };
+		4E8284BD19A9A1D600E0AC85 /* list_item_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "list_item_bg@2x.png"; path = "Images/list_item_bg@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +106,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E82849719A90A4B00E0AC85 /* libz.dylib in Frameworks */,
+				4E82849119A90A2500E0AC85 /* CoreBluetooth.framework in Frameworks */,
+				4E8284A719A90AB300E0AC85 /* FYX.framework in Frameworks */,
+				4E82849219A90A2500E0AC85 /* CoreData.framework in Frameworks */,
+				4E8284A519A90AB300E0AC85 /* ContextLocation.framework in Frameworks */,
+				4E82849319A90A2500E0AC85 /* CoreLocation.framework in Frameworks */,
+				4E8284A419A90AB300E0AC85 /* ContextCore.framework in Frameworks */,
+				4E82849419A90A2500E0AC85 /* MapKit.framework in Frameworks */,
+				4E82849519A90A2500E0AC85 /* Security.framework in Frameworks */,
+				4E8284A819A90AB300E0AC85 /* NetworkServices.framework in Frameworks */,
 				4E82844C19A900D200E0AC85 /* CoreGraphics.framework in Frameworks */,
+				4E8284A319A90AB300E0AC85 /* Common.framework in Frameworks */,
 				4E82844E19A900D200E0AC85 /* UIKit.framework in Frameworks */,
 				4E82844A19A900D200E0AC85 /* Foundation.framework in Frameworks */,
 			);
@@ -104,6 +158,17 @@
 		4E82844819A900D200E0AC85 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4E82849819A90AB200E0AC85 /* Common.embeddedframework */,
+				4E82849A19A90AB200E0AC85 /* ContextCore.embeddedframework */,
+				4E82849C19A90AB200E0AC85 /* ContextLocation.embeddedframework */,
+				4E8284A019A90AB300E0AC85 /* FYX.framework */,
+				4E8284A119A90AB300E0AC85 /* NetworkServices.embeddedframework */,
+				4E82849619A90A4B00E0AC85 /* libz.dylib */,
+				4E82848C19A90A2400E0AC85 /* CoreBluetooth.framework */,
+				4E82848D19A90A2400E0AC85 /* CoreData.framework */,
+				4E82848E19A90A2400E0AC85 /* CoreLocation.framework */,
+				4E82848F19A90A2500E0AC85 /* MapKit.framework */,
+				4E82849019A90A2500E0AC85 /* Security.framework */,
 				4E82844919A900D200E0AC85 /* Foundation.framework */,
 				4E82844B19A900D200E0AC85 /* CoreGraphics.framework */,
 				4E82844D19A900D200E0AC85 /* UIKit.framework */,
@@ -115,13 +180,20 @@
 		4E82844F19A900D200E0AC85 /* WatchMyBags */ = {
 			isa = PBXGroup;
 			children = (
+				4E8284B119A935A500E0AC85 /* images */,
+				4E8284AE19A92C8200E0AC85 /* Transmitter.h */,
+				4E8284AF19A92C8200E0AC85 /* Transmitter.m */,
 				4E82845819A900D200E0AC85 /* AppDelegate.h */,
 				4E82845919A900D200E0AC85 /* AppDelegate.m */,
 				4E82845B19A900D200E0AC85 /* Main.storyboard */,
-				4E82845E19A900D200E0AC85 /* FirstViewController.h */,
-				4E82845F19A900D200E0AC85 /* FirstViewController.m */,
-				4E82846119A900D200E0AC85 /* SecondViewController.h */,
-				4E82846219A900D200E0AC85 /* SecondViewController.m */,
+				4E8284B419A94E1600E0AC85 /* SightingsTableViewCell.h */,
+				4E8284B519A94E1600E0AC85 /* SightingsTableViewCell.m */,
+				4E8284AB19A9215800E0AC85 /* PackMyBagsTableViewController.h */,
+				4E8284AC19A9215800E0AC85 /* PackMyBagsTableViewController.m */,
+				4E82848619A9059F00E0AC85 /* WatchMyBagsTableViewController.h */,
+				4E82848719A9059F00E0AC85 /* WatchMyBagsTableViewController.m */,
+				4E82848919A9074C00E0AC85 /* LookForBagsCVController.h */,
+				4E82848A19A9074C00E0AC85 /* LookForBagsCVController.m */,
 				4E82846419A900D200E0AC85 /* Images.xcassets */,
 				4E82845019A900D200E0AC85 /* Supporting Files */,
 			);
@@ -135,6 +207,7 @@
 				4E82845219A900D200E0AC85 /* InfoPlist.strings */,
 				4E82845519A900D200E0AC85 /* main.m */,
 				4E82845719A900D200E0AC85 /* WatchMyBags-Prefix.pch */,
+				4E8284A919A90D3800E0AC85 /* UserContext.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -155,6 +228,62 @@
 				4E82847419A900D200E0AC85 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4E82849819A90AB200E0AC85 /* Common.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				4E82849919A90AB200E0AC85 /* Common.framework */,
+			);
+			name = Common.embeddedframework;
+			path = ../gimbalsdk_1/Frameworks/Common.embeddedframework;
+			sourceTree = "<group>";
+		};
+		4E82849A19A90AB200E0AC85 /* ContextCore.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				4E82849B19A90AB200E0AC85 /* ContextCore.framework */,
+			);
+			name = ContextCore.embeddedframework;
+			path = ../gimbalsdk_1/Frameworks/ContextCore.embeddedframework;
+			sourceTree = "<group>";
+		};
+		4E82849C19A90AB200E0AC85 /* ContextLocation.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				4E82849D19A90AB200E0AC85 /* ContextLocation.framework */,
+				4E82849E19A90AB300E0AC85 /* Resources */,
+			);
+			name = ContextLocation.embeddedframework;
+			path = ../gimbalsdk_1/Frameworks/ContextLocation.embeddedframework;
+			sourceTree = "<group>";
+		};
+		4E82849E19A90AB300E0AC85 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4E82849F19A90AB300E0AC85 /* DataModels.bundle */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4E8284A119A90AB300E0AC85 /* NetworkServices.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				4E8284A219A90AB300E0AC85 /* NetworkServices.framework */,
+			);
+			name = NetworkServices.embeddedframework;
+			path = ../gimbalsdk_1/Frameworks/NetworkServices.embeddedframework;
+			sourceTree = "<group>";
+		};
+		4E8284B119A935A500E0AC85 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				4E8284BD19A9A1D600E0AC85 /* list_item_bg@2x.png */,
+				4E8284B719A9A19500E0AC85 /* bar_full@2x.png */,
+				4E8284B819A9A19500E0AC85 /* bar_track_full@2x.png */,
+				4E8284B919A9A19500E0AC85 /* WatchMyBags Icon 1.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,9 +362,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E8284AA19A90D3800E0AC85 /* UserContext.plist in Resources */,
 				4E82846519A900D200E0AC85 /* Images.xcassets in Resources */,
+				4E8284BE19A9A1D600E0AC85 /* list_item_bg@2x.png in Resources */,
+				4E8284BB19A9A19500E0AC85 /* bar_track_full@2x.png in Resources */,
 				4E82845419A900D200E0AC85 /* InfoPlist.strings in Resources */,
+				4E8284BA19A9A19500E0AC85 /* bar_full@2x.png in Resources */,
+				4E8284BC19A9A19500E0AC85 /* WatchMyBags Icon 1.png in Resources */,
 				4E82845D19A900D200E0AC85 /* Main.storyboard in Resources */,
+				4E8284A619A90AB300E0AC85 /* DataModels.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,10 +389,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E82846319A900D200E0AC85 /* SecondViewController.m in Sources */,
+				4E8284AD19A9215800E0AC85 /* PackMyBagsTableViewController.m in Sources */,
 				4E82845A19A900D200E0AC85 /* AppDelegate.m in Sources */,
-				4E82846019A900D200E0AC85 /* FirstViewController.m in Sources */,
+				4E82848B19A9074C00E0AC85 /* LookForBagsCVController.m in Sources */,
+				4E8284B019A92C8200E0AC85 /* Transmitter.m in Sources */,
 				4E82845619A900D200E0AC85 /* main.m in Sources */,
+				4E8284B619A94E1600E0AC85 /* SightingsTableViewCell.m in Sources */,
+				4E82848819A9059F00E0AC85 /* WatchMyBagsTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,6 +520,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/Common.embeddedframework,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/ContextCore.embeddedframework,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/ContextLocation.embeddedframework,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/NetworkServices.embeddedframework,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "WatchMyBags/WatchMyBags-Prefix.pch";
 				INFOPLIST_FILE = "WatchMyBags/WatchMyBags-Info.plist";
@@ -395,6 +541,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/Common.embeddedframework,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/ContextCore.embeddedframework,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/ContextLocation.embeddedframework,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks,
+					/Users/danthac/Work/xCodeProjects/gimbalsdk_1/Frameworks/NetworkServices.embeddedframework,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "WatchMyBags/WatchMyBags-Prefix.pch";
 				INFOPLIST_FILE = "WatchMyBags/WatchMyBags-Info.plist";
